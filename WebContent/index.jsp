@@ -29,21 +29,26 @@
     <div class="container">
       <!-- Example row of columns -->
       <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-3">
           <h2>Products</h2>
           <p>See a list of products. </p>
           <p><a class="btn btn-secondary" href="products.jsp" role="button">View details &raquo;</a></p>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-3">
           <h2>Products - again</h2>
           <p>See a different list of the same products. </p>
           <p>Why? What's the difference?</p>
           <p><a class="btn btn-secondary" href="ProductList" role="button">View details &raquo;</a></p>
        </div>
-        <div class="col-md-4">
+        <div class="col-md-3">
           <h2>Basket</h2>
           <p>See what's in the basket.</p>
           <p><a class="btn btn-secondary" href="basket.jsp" role="button">View details &raquo;</a></p>
+        </div>
+        <div class="col-md-3s">
+          <h2>Log in</h2>
+          <p>Log in Page</p>
+          <p><a class="btn btn-secondary" href="logon.jsp" role="button">View details &raquo;</a></p>
         </div>
       </div>
 
